@@ -1,4 +1,4 @@
-# Lyon-env　version:1.1a
+# Lyon-env　version:2.0
 
 東京工科大学CS学部人工知能サーバーLyonにJupyterLabを利用したディープラーニングの学習環境を構築するDocker-Composeファイルとその他システムファイルになります。
 イメージ自体はNvidia-Dockerが動作する環境であれば、Linuxでも動作いたします。
@@ -20,11 +20,11 @@
 
 GitHubからシステムを取得する
 ```bash
-git clone https://github.com/Amenbo1219/Lyon-env.git
+git clone https://github.com/c0b2113943/Lyon-env_v2.git
 ```
 Lyon-Envのディレクトリに移動する
 ```bash
-cd Lyon-env
+cd Lyon-env_v2
 ```
 Docker-compose をビルドする
 ```bash
